@@ -16,9 +16,7 @@ The dataset contains customer attributes such as:
 
 The objective is to build a model that predicts whether a loan will be approved or not based on these features.
 
-Target Variable:
-Y -> Loan Approved
-N -> Loan Not Approved
+Target Variable: Y (Loan Approved), N (Loan Not Approved)
 
 The model is trained using historical data to make accurate predictions for new loan applicants.
 
